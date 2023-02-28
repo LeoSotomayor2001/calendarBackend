@@ -1,0 +1,4 @@
+dbUser: darking
+dbpass: darking1
+
+mongodb+srv://darking:<password>@calendardb.2irkmtq.mongodb.net
